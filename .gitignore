@@ -1,0 +1,16 @@
+
+*.txt
+
+*.sgrx
+
+*.cfs
+
+*.png
+
+*.asv
+
+*.mat
+
+*.fig
+
+.DS_Store
